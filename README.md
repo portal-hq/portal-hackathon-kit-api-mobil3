@@ -10,7 +10,7 @@ This repository shows you how you can easily integrate `MON` (Monad Testnet) int
 4. Transfer tokens to a given recipient address.
 5. Showcase USDC token on Monad Testnet.
 
-![Demo](/readme.png)
+![Demo](./public/readme.png)
 
 ## How to Run This Example App
 
